@@ -5,9 +5,9 @@
 - `Career_LinkedIn e posizionamento AI Adoption`
 - `Investments_Portafoglio ETF a 10 anni`
 - `Politics_Accountability dei rappresentanti eletti`
-- `Jobs_Top aziende Emilia-Romagna`
+- `Jobs_Top aziende Italia`
 - `AI_Copilot Governance e Adoption Enterprise`
-- `Images_Action Figure Zanna`
+- `Images_Action Figure`
 - `RealEstate_Acquisto casa ed efficienza energetica`
 
 ## Weak titles
