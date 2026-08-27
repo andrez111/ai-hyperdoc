@@ -1,4 +1,0 @@
-interface:
-  display_name: "Conversation Title Organizer"
-  short_description: "Keep conversation titles stable and searchable"
-  default_prompt: "Use $conversation-title-organizer to classify this conversation and produce the best current title."
